@@ -15,7 +15,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
+    "@angular-architects/native-federation": "^18.2.3",
     "@nx/angular": "^20.2.2",
     "nx": "20.2.2",
     "only-allow": "^1.2.1"
